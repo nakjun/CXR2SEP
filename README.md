@@ -12,7 +12,7 @@
 ----
 ## Contributors
 - Nak-Jun Sung. Ph.D. National Cancer Center Korea. git@nakjun
-- Jung Wan Park. MD, Ph.D.  Soonchunhyang University Cheonan Hospital.
+- Jung Wan Park. M.D, Ph.D.  Soonchunhyang University Cheonan Hospital.
 - Jihong Min. M.S. Student. Soonchunhyang University.
 - Jun Ma. Ph.D. Kunsan national University.
 - Min Hong. Ph.D. Soonchunhyang University.
